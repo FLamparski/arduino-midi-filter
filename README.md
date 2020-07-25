@@ -16,3 +16,10 @@ Stop on the Keystep sets note sustain to 0 which is understandable but also slig
 Demonstration: https://www.instagram.com/p/CDCDuVWHm6M/
 
 Licenced under GPL version 3.
+
+You will need the following Arduino libraries:
+* [Arduino MIDI Library][1] v5.0.2
+* [The Timer library][2] master
+
+[1]: https://github.com/FortySevenEffects/arduino_midi_library
+[2]: https://github.com/brunocalou/Timer
